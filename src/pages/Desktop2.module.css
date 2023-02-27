@@ -1,0 +1,230 @@
+.image1Icon {
+  position: absolute;
+  top: 0.69rem;
+  left: 2.88rem;
+  width: 11.69rem;
+  height: 11.38rem;
+  object-fit: cover;
+}
+.crraoAdvancedInstitute,
+.universityOfHyderabad {
+  margin: 0;
+  position: absolute;
+  top: 2.5rem;
+  left: 20.31rem;
+  font-size: inherit;
+  line-height: 183.02%;
+  font-weight: 700;
+  font-family: inherit;
+  color: var(--color-darkslateblue-100);
+  display: inline-block;
+  width: 57rem;
+}
+.universityOfHyderabad {
+  top: 4.69rem;
+  left: 25.38rem;
+  width: 42.56rem;
+  height: 2.94rem;
+}
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gainsboro);
+  backdrop-filter: blur(10px);
+  width: 18.56rem;
+  height: 11.06rem;
+}
+.c,
+.cWrapper {
+  position: absolute;
+  width: 5.25rem;
+  height: 2.75rem;
+}
+.c {
+  top: 0;
+  left: 0;
+  line-height: 110%;
+  display: inline-block;
+}
+.cWrapper {
+  top: 4.44rem;
+  left: 6.54rem;
+}
+.temperature {
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+}
+.groupDiv,
+.temperature,
+.temperatureWrapper {
+  position: absolute;
+  width: 10.39rem;
+  height: 2.21rem;
+}
+.temperatureWrapper {
+  top: 0;
+  left: 0;
+}
+.groupDiv {
+  top: 0.44rem;
+  left: 0.99rem;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-cairo);
+}
+.groupWrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 18.56rem;
+  height: 11.06rem;
+}
+.div,
+.wrapper {
+  position: absolute;
+  width: 6.69rem;
+  height: 2.75rem;
+}
+.div {
+  top: 0;
+  left: 0;
+  line-height: 110%;
+  display: inline-block;
+}
+.wrapper {
+  top: 4.63rem;
+  left: 6.97rem;
+}
+.groupParent,
+.groupWrapper1 {
+  position: absolute;
+  height: 11.06rem;
+}
+.groupWrapper1 {
+  top: 0;
+  left: 22.07rem;
+  width: 18.56rem;
+}
+.groupParent {
+  top: 19.81rem;
+  left: 25.88rem;
+  width: 39.63rem;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-orbitron);
+}
+.vectorIcon,
+.vectorIcon1 {
+  position: absolute;
+  height: 8.79%;
+  width: 4.72%;
+  top: 35.74%;
+  right: 61.88%;
+  bottom: 55.47%;
+  left: 33.1%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon1 {
+  height: 6.84%;
+  width: 4.17%;
+  top: 36.33%;
+  right: 38.75%;
+  bottom: 56.84%;
+  left: 59.08%;
+}
+.desktop2Child {
+  position: absolute;
+  top: 38.25rem;
+  left: 12.06rem;
+  border-radius: 9.51px;
+  width: 65.92rem;
+  height: 8.98rem;
+}
+.sensorChannel {
+  position: relative;
+}
+.sensorChannelWrapper {
+  position: absolute;
+  top: 39.25rem;
+  left: 28.75rem;
+  border-radius: 6.71px;
+  background-color: rgba(255, 255, 255, 0.5);
+  border: 1px solid var(--day-base-elevation-01);
+  box-sizing: border-box;
+  width: 47.81rem;
+  display: flex;
+  flex-direction: row;
+  padding: 0 21.79rem 0 22.39rem;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: 0.96rem;
+  font-family: var(--font-cairo);
+}
+.noDataFound,
+.sensorData {
+  position: absolute;
+  top: 43.11rem;
+  left: 44.1rem;
+  font-size: var(--font-size-lg);
+  line-height: 150%;
+  font-weight: 500;
+  font-family: var(--font-poppins);
+  display: inline-block;
+  width: 14.3rem;
+  height: 3.11rem;
+}
+.sensorData {
+  top: 41.5rem;
+  left: 14rem;
+  width: 12.63rem;
+  height: 1.63rem;
+}
+.desktop2Item {
+  position: absolute;
+  top: 38.71rem;
+  left: 27.84rem;
+  border-right: 1px solid #2d9cdb;
+  box-sizing: border-box;
+  width: 0.06rem;
+  height: 8.08rem;
+}
+.vectorIcon2 {
+  position: absolute;
+  height: 1.77%;
+  width: 1.64%;
+  top: 39.16%;
+  right: 51.42%;
+  bottom: 59.07%;
+  left: 50.94%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.desktop2 {
+  position: relative;
+  background: linear-gradient(180deg, #fff, #8f8787 75%, transparent);
+  width: 100%;
+  height: 64rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+
+.tempicon {
+  position: absolute;
+  right: 20;
+  padding-top: 2.5rem;
+}
+.humidicon {
+  position: absolute;
+  right: 20;
+  padding-top: 3rem;
+}

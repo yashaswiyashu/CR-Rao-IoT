@@ -1,0 +1,66 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@500;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Neue+Haas+Unica+W1G:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Orbitron:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cairo:wght@500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap");
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --desktop-body-m: Manrope;
+  --desktop-body-s1: "Neue Haas Unica W1G";
+  --font-inter: Inter;
+  --font-poppins: Poppins;
+  --font-cairo: Cairo;
+  --font-orbitron: Orbitron;
+
+  /* font sizes */
+  --desktop-body-xs-size: 0.69rem;
+  --desktop-body-s1-size: 0.81rem;
+  --desktop-body-m-size: 0.94rem;
+  --font-size-sm: 1.13rem;
+  --font-size-base: 1.25rem;
+  --font-size-lg: 1.85rem;
+  --font-size-xl: 1.88rem;
+
+  /* Colors */
+  --day-base-elevation-01: #fff;
+  --color-darkslateblue-100: #173070;
+  --color-gainsboro: rgba(231, 231, 231, 0.32);
+  --day-base-accent: #ff7043;
+  --day-base-primary: #526ed3;
+  --day-text-icons-text-01: rgba(25, 28, 48, 0.9);
+  --color-gray-200: rgba(255, 255, 255, 0);
+  --day-text-icons-text-02: rgba(27, 31, 59, 0.65);
+  --day-status-info-bg: rgba(112, 182, 246, 0.12);
+  --color-black: #000;
+
+  /* Gaps */
+  --gap-xs: 0.63rem;
+  --gap-sm: 0.75rem;
+  --gap-md: 1rem;
+  --gap-lg: 1.5rem;
+
+  /* Paddings */
+  --padding-2xs: 0.25rem;
+  --padding-xs: 0.31rem;
+  --padding-sm: 0.5rem;
+  --padding-md: 1rem;
+  --padding-lg: 1.25rem;
+  --padding-xl: 2rem;
+
+  /* border radiuses */
+  --br-2xs: 9.92px;
+  --br-xs: 12px;
+  --br-sm: 13.63px;
+  --br-md: 16px;
+  --br-lg: 30px;
+  --br-xl: 1000px;
+
+  /* Effects */
+  --shadow-default1: 0px 4px 24px rgba(0, 0, 0, 0.12);
+}
